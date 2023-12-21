@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: f571adb6904843b4e84f3dc9170a36dd
+  - enabled: 1
+    path: Assets/Scenes/AnimationStart.unity
+    guid: 6267da5475e7fce4f9fa0ea87b72fd1e
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: ea953e631bc90af418103500dd31ffa8
+  - enabled: 1
+    path: Assets/Scenes/OptionScreen.unity
+    guid: f40bdaea4e7742443b09daf7d125fa81
+  - enabled: 1
+    path: Assets/Scenes/AnimTuto.unity
+    guid: 20e897bb1589aec4a9742eb7bd1352b1
+  - enabled: 1
+    path: Assets/Scenes/EndGaleAnimation.unity
+    guid: a345912274d402e4280891ceee38ba3e
+  m_configObjects: {}
